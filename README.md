@@ -1,6 +1,4 @@
-Lack of Access to Healthcare in Underserved Communities – Data Analysis & Visualization
-
-Overview
+Lack of Access to Healthcare in Underserved Communities
 
 This project simulates healthcare-related data across 20 regions to identify and visualize disparities in healthcare access in underserved communities. Through data analysis and visual storytelling, we uncover correlations between critical factors like population density, healthcare quality, staff distribution, and budget allocation.
 
@@ -46,30 +44,6 @@ matplotlib
 seaborn
 
 scipy.stats
-
-
-
-How to Run
-
-1. Clone the repository or download the .py file:
-
-git clone https://github.com/yourusername/healthcare-access-analysis.git
-cd healthcare-access-analysis
-
-
-2. Install the required libraries:
-
-pip install numpy pandas matplotlib seaborn scipy
-
-
-3. Run the Python script:
-
-python healthcare_analysis.py
-
-
-4. View the console output and explore the generated visualizations.
-
-
 
 Visualizations Included
 
